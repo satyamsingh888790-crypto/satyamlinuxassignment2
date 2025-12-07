@@ -1,0 +1,60 @@
+------ Sun Dec  7 04:39:13 PST 2025 ------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         196  0.0  0.2 107012 22400 ?        Ssl  04:37   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          40  0.1  0.1  42164 15192 ?        S<s  04:37   0:00 /usr/lib/systemd/systemd-journald
+systemd+     153  0.0  0.1  21456 12672 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-resolved
+root         173  0.0  0.1 1755840 12160 ?       Ssl  04:37   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.3  0.1  21772 11848 ?        Ss   04:37   0:00 /sbin/init
+satyam       330  0.0  0.1  20308 11136 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd --user
+root         171  0.0  0.1  17964  8320 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-logind
+systemd+     154  0.0  0.0  91024  7680 ?        Ssl  04:37   0:00 /usr/lib/systemd/systemd-timesyncd
+root          90  0.1  0.0  24872  5888 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-udevd
+
+------ Sun Dec  7 04:39:18 PST 2025 ------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         196  0.0  0.2 107012 22400 ?        Ssl  04:37   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          40  0.1  0.1  42164 15192 ?        S<s  04:37   0:00 /usr/lib/systemd/systemd-journald
+systemd+     153  0.0  0.1  21456 12672 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-resolved
+root         173  0.0  0.1 1755840 12160 ?       Ssl  04:37   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.3  0.1  21772 11848 ?        Ss   04:37   0:00 /sbin/init
+satyam       330  0.0  0.1  20308 11136 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd --user
+root         171  0.0  0.1  17964  8320 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-logind
+systemd+     154  0.0  0.0  91024  7680 ?        Ssl  04:37   0:00 /usr/lib/systemd/systemd-timesyncd
+root          90  0.1  0.0  24872  5888 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-udevd
+
+------ Sun Dec  7 04:39:23 PST 2025 ------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         196  0.0  0.2 107012 22400 ?        Ssl  04:37   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          40  0.1  0.1  42164 15192 ?        S<s  04:37   0:00 /usr/lib/systemd/systemd-journald
+systemd+     153  0.0  0.1  21456 12672 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-resolved
+root         173  0.0  0.1 1755840 12160 ?       Ssl  04:37   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.3  0.1  21772 11848 ?        Ss   04:37   0:00 /sbin/init
+satyam       330  0.0  0.1  20308 11136 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd --user
+root         171  0.0  0.1  17964  8320 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-logind
+systemd+     154  0.0  0.0  91024  7680 ?        Ssl  04:37   0:00 /usr/lib/systemd/systemd-timesyncd
+root          90  0.1  0.0  24872  5888 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-udevd
+
+------ Sun Dec  7 04:39:28 PST 2025 ------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         196  0.0  0.2 107012 22400 ?        Ssl  04:37   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          40  0.1  0.1  42164 15192 ?        S<s  04:37   0:00 /usr/lib/systemd/systemd-journald
+systemd+     153  0.0  0.1  21456 12672 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-resolved
+root         173  0.0  0.1 1755840 12160 ?       Ssl  04:37   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.3  0.1  21772 11848 ?        Ss   04:37   0:00 /sbin/init
+satyam       330  0.0  0.1  20308 11136 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd --user
+root         171  0.0  0.1  17964  8320 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-logind
+systemd+     154  0.0  0.0  91024  7680 ?        Ssl  04:37   0:00 /usr/lib/systemd/systemd-timesyncd
+root          90  0.1  0.0  24872  5888 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-udevd
+
+------ Sun Dec  7 04:39:32 PST 2025 ------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         196  0.0  0.2 107012 22400 ?        Ssl  04:37   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          40  0.1  0.1  42164 15192 ?        S<s  04:37   0:00 /usr/lib/systemd/systemd-journald
+systemd+     153  0.0  0.1  21456 12672 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-resolved
+root         173  0.0  0.1 1755840 12160 ?       Ssl  04:37   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.3  0.1  21772 11848 ?        Ss   04:37   0:00 /sbin/init
+satyam       330  0.0  0.1  20308 11136 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd --user
+root         171  0.0  0.1  17964  8320 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-logind
+systemd+     154  0.0  0.0  91024  7680 ?        Ssl  04:37   0:00 /usr/lib/systemd/systemd-timesyncd
+root          90  0.1  0.0  24872  5888 ?        Ss   04:37   0:00 /usr/lib/systemd/systemd-udevd
+
