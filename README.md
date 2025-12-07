@@ -1,1 +1,7 @@
+NAME SATYAM SINGH
+
+SAPID 590028838
+
+BATCH 78
+
 # satyamlinuxassignment2
